@@ -1,0 +1,19 @@
+{
+  "dataset_size": 500,
+  "num_features": 4,
+  "features": [
+    "magnitude",
+    "depth",
+    "latitude",
+    "longitude"
+  ],
+  "optimal_k": 4,
+  "best_algorithm": "K-Means",
+  "kmeans_silhouette": 0.33898927067166795,
+  "hierarchical_silhouette": 0.30445416006912523,
+  "gmm_silhouette": 0.31192267750229846,
+  "kmeans_davies_bouldin": 1.2567937282981752,
+  "kmeans_calinski_harabasz": 381.9546206623313,
+  "dbscan_clusters": 6,
+  "dbscan_noise": 188
+}
